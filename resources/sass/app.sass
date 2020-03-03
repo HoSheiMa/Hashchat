@@ -1,0 +1,15 @@
+// Variables
+@import "variables"
+body
+    width: 100vw !important
+    height: 100vh !important
+
+@each $name, $color in $colors
+    .web-color-#{$name}
+        color: #{$color} !important
+
+.img-1
+    background-image: url("/assets/photo-of-person-holding-bowl-3651611.jpg")
+    background-size: cover
+    background-origin: border-box
+    background-position: center

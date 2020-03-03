@@ -1,0 +1,40 @@
+body {
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
+.web-color-black-0 {
+  color: #393e46 !important;
+}
+
+.web-color-black-1 {
+  color: #222831 !important;
+}
+
+.web-color-blue-0 {
+  color: #a8d8ea !important;
+}
+
+.web-color-blue-1 {
+  color: #00adb5 !important;
+}
+
+.web-color-red-0 {
+  color: #f38181 !important;
+}
+
+.web-color-red-1 {
+  color: #ff2e63 !important;
+}
+
+.web-color-orange-0 {
+  color: #f08a5d !important;
+}
+
+.img-1 {
+  background-image: url("/assets/photo-of-person-holding-bowl-3651611.jpg");
+  background-size: cover;
+  background-origin: border-box;
+  background-position: center;
+}
+
